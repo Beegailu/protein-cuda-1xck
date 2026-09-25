@@ -1,0 +1,11 @@
+# Compiled binaries and object files
+*.exe
+*.o
+*.obj
+*.out
+
+# IDE and Editor files
+.vscode/
+
+# Python cache
+__pycache__/
